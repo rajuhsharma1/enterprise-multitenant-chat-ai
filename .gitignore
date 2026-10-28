@@ -1,0 +1,10 @@
+target/
+*.jar
+*.zip
+.env
+.env.*
+!.env.example
+.idea/
+*.iml
+.vscode/
+.DS_Store
